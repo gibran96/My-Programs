@@ -1,2 +1,2 @@
-# My-Programs
-A collection of certain codes practiced by me.
+# My-Programs (Python)
+A collection of certain codes practiced by me in Python.
